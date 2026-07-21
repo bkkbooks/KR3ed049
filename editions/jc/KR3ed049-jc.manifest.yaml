@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed049_000-jc.yaml, hash: 'sha256:7a420c01965a138ba71ac6cec6463f08cfc8ef8cb624f4c4f3b8bc58df1a6a8c'}
+  - {seq: 0, filename: KR3ed049_000-jc.yaml, hash: 'sha256:f9078f360df4fd8ab4e40f295cd7c3dec3fa4dbe2c10416dd361d6a1c41c39fe'}
   - {seq: 1, filename: KR3ed049_001-jc.yaml, hash: 'sha256:001a24fba66b8e640c5a734076b05879a84818c4b2b54ab0296c73bc7e6344d9'}
   - {seq: 2, filename: KR3ed049_002-jc.yaml, hash: 'sha256:eb4dbe3a9850a3c359133f47d0cd6565d84b8c127feb170139dbc7dbcd253ba7'}
   - {seq: 3, filename: KR3ed049_003-jc.yaml, hash: 'sha256:27d3faedb497075dd33337693ac47ed3d88bb489d80a663301f5c0988a16d052'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 7, filename: KR3ed049_007-jc.yaml, hash: 'sha256:a5cfa5da85d03cfc049f2f2a2d690cdc2ccce5b821945db6b2aa40c2b0c7b52c'}
   - {seq: 8, filename: KR3ed049_008-jc.yaml, hash: 'sha256:aefc0757e7545768766f5494d8addb3b50371a5a7796b12819fb26ebd6dd6709'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed049_000-jc.markers.yaml, hash: 'sha256:7df514c5b1d9b787d78ebcce788e81d2b30d988e8ac300a9040479878b753878'}
+  - {seq: 0, role: markers, filename: assets/KR3ed049_000-jc.markers.yaml, hash: 'sha256:ad580304440dd805e62f8aba90b15addfbdc58114e1e96163d60c822a5057699'}
   - {seq: 1, role: markers, filename: assets/KR3ed049_001-jc.markers.yaml, hash: 'sha256:692fd9e9b9ff989bc2ba00864e359d74f2ff678ead68b50964707ad6f1ddb4bf'}
   - {seq: 2, role: markers, filename: assets/KR3ed049_002-jc.markers.yaml, hash: 'sha256:12d77cc21e2a62fc0af313c889e6bf6c7cb1a1898896a62e0ef1c8807902b0f5'}
   - {seq: 3, role: markers, filename: assets/KR3ed049_003-jc.markers.yaml, hash: 'sha256:944a5ad0d2f88d59c78b29dadbbfcc3267f4c2c04bbf3269cb87a879493c24b2'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed049_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 648
   label: 刻萬氏家抄濟世良方序
@@ -1817,4 +1817,4 @@ table_of_contents:
   label: 用藥大略
   type: section
   level: 2
-hash: sha256:479006d729df4be83069c1fc50b1665ec3449e2c7716282d2da7fadc98fc642b
+hash: sha256:794f31f47414888e3693fd5b3f431869019bb234453fb962ce6588e64edc214c
